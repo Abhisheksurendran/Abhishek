@@ -1,7 +1,7 @@
 
 ## Hi there, Hrithik here 👋🏼
-[![Gmail Badge](https://img.shields.io/badge/-hrithikleo624@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:hrithikleo624@gmail.com "Connect via Email")
-[![Linkedin Badge](https://img.shields.io/badge/-Hrithik%20Lal-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hrithik-lal-606532223/ "Connect on LinkedIn")
+[![Gmail Badge](https://img.shields.io/badge/-abhisheksurendran2000@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:abhisheksurendran2000@gmail.com "Connect via Email")
+[![Linkedin Badge](https://img.shields.io/badge/-Abhishek%20S-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-s-20a66b223/ "Connect on LinkedIn")
 
 ---
 I am a Data Science & Machine Learning Intern at Luminar TechnoLab, Cochin , & a  Bachelor of Science in Computer Science and Statistics graduate, who is passionate about Data :bar_chart:, Pythonic programming :snake:, and open source :octocat:. I love to learn and contribute in any and every possible way.
