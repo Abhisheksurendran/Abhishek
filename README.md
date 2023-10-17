@@ -4,9 +4,9 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Abhishek%20S-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-s-20a66b223/ "Connect on LinkedIn")
 
 ---
-I am a Data Science & Machine Learning Intern at Luminar TechnoLab, Cochin , & a  Bachelor of Science in Computer Science and Statistics graduate, who is passionate about Data :bar_chart:, Pythonic programming :snake:, and open source :octocat:. I love to learn and contribute in any and every possible way.
+I am a graduate in Bachelor of Science in Computer Science and Statistics, who is passionate about Data :bar_chart:, Pythonic programming :snake:, and open source :octocat:. I love to learn and contribute in any and every possible way.
 
-- 📭 Data are just summaries of thousands of stories—tell a few of those stories to help make the data meaningful.
+-"📊 Data Enthusiast: Fascinated by the power of data, I'm passionate about exploring, analyzing, and visualizing information to gain insights and make informed decisions. Proficient in Python and data analysis techniques, I love turning raw data into actionable intelligence. Let's unlock the potential of data together!"
 - 💬 Volunteer for the education of underrepresented and underpreviliged, because **Education is very powerful.**
 - 😄 Talk to me about : Artificial Intelligence | Data Science | Machine Learning | Data Analytics 
 - 👾 Fun fact: Everything that has been or could be written/said already exists in the [Library of Babel](https://libraryofbabel.info/)
@@ -21,7 +21,7 @@ Linear Algebra).
 
 • **Libraries**: NumPy, Pandas, Scikit-Learn, Seaborn, Matplotlib, TensorFlow, Keras, Snscrape. 
 
-• **Visualization Tools**: Tableau, Power BI
+• **Visualization Tools**: Tableau, Power BI, Excel.
 
 • **Web Development**: HTML, CSS. 
 
